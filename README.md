@@ -2,10 +2,7 @@
 
 
 <h2>Screenshots</h2>
-![In a single picture](https://github.com/darknblack/4PIC-1WORD/blob/master/LOL1.png)
-
-![In a single picture](https://github.com/darknblack/4PIC-1WORD/blob/master/LOL2.png)
-
-![In a single picture](https://github.com/darknblack/4PIC-1WORD/blob/master/LOL3.png)
-
-![In a single picture](https://github.com/darknblack/4PIC-1WORD/blob/master/LOL4.png)
+<img src="/LOL1.png" alt="My cool logo" height="300" width="150" />
+<img src="/LOL2.png" alt="My cool logo" height="300" width="150"/>
+<img src="/LOL3.png" alt="My cool logo" height="300" width="150"/>
+<img src="/LOL4.png" alt="My cool logo" height="300" width="150"/>
