@@ -15,9 +15,9 @@ Local storage <br>
 <p>Select the correct letters that matches the 4 images provided by the system.</p>
 
 <h2>Screenshots</h2>
-<img src="/LOL1.png" alt="My cool logo" height="350" width="200" />
-<img src="/LOL2.png" alt="My cool logo" height="350" width="200"/>
-<img src="/LOL3.png" alt="My cool logo" height="350" width="200"/>
-<img src="/LOL4.png" alt="My cool logo" height="350" width="200"/>
+<img src="/LOL1.png" alt="My cool logo" width="250" />
+<img src="/LOL2.png" alt="My cool logo" width="250"/>
+<img src="/LOL3.png" alt="My cool logo" width="250"/>
+<img src="/LOL4.png" alt="My cool logo" width="250"/>
 
 <p>The game will reset everytime you exit the system and there are only 3 stages at the moment.</p>
