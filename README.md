@@ -21,3 +21,5 @@ Local storage <br>
 <img src="/LOL4.png" alt="My cool logo" width="250"/>
 
 <p>The game will reset everytime you exit the system and there are only 3 stages at the moment.</p>
+
+Need to change the structure
